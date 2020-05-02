@@ -132,10 +132,10 @@ async def amireallyalive(alive):
                      f"------------------------------------ \n"
                      
                      f"User 👨‍🚀:{DEFAULTUSER} \n"
-                     f"Maintainer 🏄‍♂️: @heyworld \n"
+                     f"Maintainer 🏄‍: @shakil29 \n"
                      f"Admin 👑:{DEFAULTUSER} \n"
                      f"Userbot 😎: oub-remix \n"
-                     f"Repo 📥:https://github.com/sahyam2019/oub-remix.git"
+                     f"Repo 📥:https://github.com/mdkaium95/oub-remix.git"
                      )    
 
 
