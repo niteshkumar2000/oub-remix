@@ -122,20 +122,20 @@ async def pipcheck(pip):
 @register(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit(
-                     
-                      
-                     f"`🤖 STATUS: Working Sexy AF ✅` \n"
-                     f"Telethon version:{version.__version__} \n"
-                     f"Python version🐍:{python_version()} \n"
-                     f"`Bot Version🤘: Remix 1.1` \n"
-                     f"------------------------------------ \n"
-                     
-                     f"User 👨‍🚀:{DEFAULTUSER} \n"
-                     f"Maintainer 🏄‍: @shakil29 \n"
-                     f"Admin 👑:{DEFAULTUSER} \n"
-                     f"Userbot 😎: oub-remix \n"
-                     f"Repo 📥:https://github.com/mdkaium95/oub-remix.git"
+    await alive.edit("`"
+                     "I am alive, My Boss. \n\n"
+                     " \n"
+                     "F.R.I.D.A.Y. is online. \n\n"
+                     f"Telethon version: {version.__version__} \n"
+                     f"Python: {python_version()} \n"
+                     f"---------------------------------- \n"
+                     " \n"
+                     f"Creator: Niti \n"
+                     f"Owner: Niti \n"
+                     " \n"
+                     f"Niti'z Bot: F.R.I.D.A.Y. \n"
+                     f"Female Replacement Intelligent Digital Assistant Youth"
+                     "`"
                      )    
 
 
