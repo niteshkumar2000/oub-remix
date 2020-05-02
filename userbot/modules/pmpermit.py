@@ -16,8 +16,10 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = (
-    "`HeY! Please don't spam. Wait for my master's approval 🙃\nMessage remaining:1 \n\n`")
+UNAPPROVED_MSG = ("Hello! This is an automated message.\n\n"
+                  "If you have any issues with my builds,\n"
+                  "Please report here - @nitibuilds and tag me!\n"
+                  "Your message will be responded when I'm free.")
 # =================================================================
 
 
